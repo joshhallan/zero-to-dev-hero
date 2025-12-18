@@ -1,0 +1,19 @@
+.heading {
+  color: red;
+  font-size: 52px;
+}
+
+.btn.success {
+  background-color: green;
+  color: white;
+}
+
+.btn.danger {
+  background-color: red;
+  color: white;
+}
+
+.btn.neutral {
+  background-color: blue;
+  color: white;
+}
