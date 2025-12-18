@@ -1,5 +1,5 @@
 # Welcome
-Hello :) welcome to the internal React training course from Leighton
+Hello :) welcome to the internal React training course from Leighton - Zero to Dev Hero
 
 This course is geared towards getting someone from knowing 0 about development to creating their own fully functioning React application. If you do run into any trouble please feel free to reach out to anyone in the FE community and I'm sure they'll be happy to help. 
 
